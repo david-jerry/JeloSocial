@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520898291627",
+    "firebase_url": "https://jeloskype.firebaseio.com",
+    "project_id": "jeloskype",
+    "storage_bucket": "jeloskype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520898291627:android:d2d9627ac044f0a95314ee",
+        "android_client_info": {
+          "package_name": "com.jeloblis.skype_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520898291627-jukgqhfrk2tsol2lg3n94mue9v829nal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeloblis.skype_clone",
+            "certificate_hash": "8640eeab5ca4eddbcfe953e69f48c464abd6dc3a"
+          }
+        },
+        {
+          "client_id": "520898291627-eklbgjlb7utb36d7hscd83cjs00fl1s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLTRIFCuITXe-NMKfXDGfIhxjaLcSFdcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520898291627-eklbgjlb7utb36d7hscd83cjs00fl1s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
